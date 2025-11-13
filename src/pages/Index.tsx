@@ -257,6 +257,11 @@ const Index = () => {
                     Игра требует стратегии, внимательности и хорошей реакции!
                   </p>
                 </div>
+                <div className="bg-secondary/5 p-3 rounded-lg border border-secondary/20 mt-4">
+                  <p className="text-center text-sm text-muted-foreground italic">
+                    P.S. Карина лучшая
+                  </p>
+                </div>
               </CardContent>
             </Card>
           </div>
